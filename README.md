@@ -2,12 +2,12 @@
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/samui-build/react-router-mantine)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/beeman/react-router-mantine)
 
 Create using `create-react-router`:
 
 ```shell
-pnpm create react-router@latest --template samui-build/react-router-mantine
+pnpm create react-router@latest --template beeman/react-router-mantine
 ```
 
 ## Features
